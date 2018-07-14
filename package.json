@@ -12,7 +12,7 @@
     "redux": "^4.0.0",
     "start": "^5.1.0"
   },
-  "homepage": "https://jakeberg.github.io/todos-part-4/home",
+  "homepage": "https://jakeberg.github.io/todos-part-4/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
